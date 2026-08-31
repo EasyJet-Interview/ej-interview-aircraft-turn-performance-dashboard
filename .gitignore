@@ -1,0 +1,38 @@
+# Dependencies
+node_modules
+
+# Build
+dist
+dist-ssr
+*.tsbuildinfo
+
+# Vite / Vitest
+.vite
+coverage
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment (keep .env.example)
+.env
+.env.*
+!.env.example
+
+# Caches
+.eslintcache
+.cache
+*.local
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea
+.vscode/*
+!.vscode/extensions.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
