@@ -59,7 +59,7 @@ The input represents records exported from a legacy operational system, represen
 
 - `flightNumber` identifies a turn within a local calendar date, but flight numbers are reused on other dates.
 - `eventDateTime` is an airport-local ISO 8601 date and time with no timezone or UTC offset.
-- Do not modify the source file to clean it up.
+- You are not permitted to modify the source file; work with it as is.
 
 See [`docs/event-contract.md`](docs/event-contract.md) for the lifecycle and field definitions.
 

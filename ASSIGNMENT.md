@@ -26,7 +26,7 @@ The intermediate operations should help users understand which parts of a turn c
 
 ## Source data behaviour
 
-The static event file represents data exported from a legacy operational system. It is representative of a remote event stream, supplied here as a JSON array for simplicity. Do not modify the source data as a way to clean it up.
+The static event file represents data exported from a legacy operational system. It is representative of a remote event stream, supplied here as a JSON array for simplicity. You are not permitted to modify the provided data; you must work with it as is.
 
 ## Event lifecycle
 
