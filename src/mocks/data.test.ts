@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest'
 import { getMockAirport, getMockNetwork, getMockSlas } from './data'
 
-const range = { from: '2026-07-22', to: '2026-07-26' }
+const range = { from: '2026-08-04', to: '2026-08-08' }
 
 describe('demo API data', () => {
   it('provides all five airport SLAs', () => {

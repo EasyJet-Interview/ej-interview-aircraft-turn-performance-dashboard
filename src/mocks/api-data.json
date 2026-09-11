@@ -22,8 +22,8 @@
     }
   ],
   "network": {
-    "from": "2026-07-21",
-    "to": "2026-07-27",
+    "from": "2026-08-03",
+    "to": "2026-08-09",
     "airports": [
       {
         "airportCode": "LGW",
@@ -34,43 +34,43 @@
         "slaCompliancePercentage": 83.3,
         "dailyPerformance": [
           {
-            "date": "2026-07-21",
+            "date": "2026-08-03",
             "turnCount": 5,
             "averageTurnMinutes": 38,
             "slaCompliancePercentage": 86
           },
           {
-            "date": "2026-07-22",
+            "date": "2026-08-04",
             "turnCount": 6,
             "averageTurnMinutes": 39,
             "slaCompliancePercentage": 82
           },
           {
-            "date": "2026-07-23",
+            "date": "2026-08-05",
             "turnCount": 7,
             "averageTurnMinutes": 40,
             "slaCompliancePercentage": 84
           },
           {
-            "date": "2026-07-24",
+            "date": "2026-08-06",
             "turnCount": 5,
             "averageTurnMinutes": 38,
             "slaCompliancePercentage": 79
           },
           {
-            "date": "2026-07-25",
+            "date": "2026-08-07",
             "turnCount": 6,
             "averageTurnMinutes": 39,
             "slaCompliancePercentage": 88
           },
           {
-            "date": "2026-07-26",
+            "date": "2026-08-08",
             "turnCount": 7,
             "averageTurnMinutes": 40,
             "slaCompliancePercentage": 85
           },
           {
-            "date": "2026-07-27",
+            "date": "2026-08-09",
             "turnCount": 5,
             "averageTurnMinutes": 38,
             "slaCompliancePercentage": 80
@@ -86,43 +86,43 @@
         "slaCompliancePercentage": 71.1,
         "dailyPerformance": [
           {
-            "date": "2026-07-21",
+            "date": "2026-08-03",
             "turnCount": 6,
             "averageTurnMinutes": 36,
             "slaCompliancePercentage": 70
           },
           {
-            "date": "2026-07-22",
+            "date": "2026-08-04",
             "turnCount": 7,
             "averageTurnMinutes": 37,
             "slaCompliancePercentage": 74
           },
           {
-            "date": "2026-07-23",
+            "date": "2026-08-05",
             "turnCount": 5,
             "averageTurnMinutes": 35,
             "slaCompliancePercentage": 68
           },
           {
-            "date": "2026-07-24",
+            "date": "2026-08-06",
             "turnCount": 6,
             "averageTurnMinutes": 36,
             "slaCompliancePercentage": 76
           },
           {
-            "date": "2026-07-25",
+            "date": "2026-08-07",
             "turnCount": 7,
             "averageTurnMinutes": 37,
             "slaCompliancePercentage": 73
           },
           {
-            "date": "2026-07-26",
+            "date": "2026-08-08",
             "turnCount": 5,
             "averageTurnMinutes": 35,
             "slaCompliancePercentage": 71
           },
           {
-            "date": "2026-07-27",
+            "date": "2026-08-09",
             "turnCount": 6,
             "averageTurnMinutes": 36,
             "slaCompliancePercentage": 66
@@ -138,43 +138,43 @@
         "slaCompliancePercentage": 87.5,
         "dailyPerformance": [
           {
-            "date": "2026-07-21",
+            "date": "2026-08-03",
             "turnCount": 7,
             "averageTurnMinutes": 39,
             "slaCompliancePercentage": 89
           },
           {
-            "date": "2026-07-22",
+            "date": "2026-08-04",
             "turnCount": 5,
             "averageTurnMinutes": 37,
             "slaCompliancePercentage": 86
           },
           {
-            "date": "2026-07-23",
+            "date": "2026-08-05",
             "turnCount": 6,
             "averageTurnMinutes": 38,
             "slaCompliancePercentage": 91
           },
           {
-            "date": "2026-07-24",
+            "date": "2026-08-06",
             "turnCount": 7,
             "averageTurnMinutes": 39,
             "slaCompliancePercentage": 88
           },
           {
-            "date": "2026-07-25",
+            "date": "2026-08-07",
             "turnCount": 5,
             "averageTurnMinutes": 37,
             "slaCompliancePercentage": 84
           },
           {
-            "date": "2026-07-26",
+            "date": "2026-08-08",
             "turnCount": 6,
             "averageTurnMinutes": 38,
             "slaCompliancePercentage": 90
           },
           {
-            "date": "2026-07-27",
+            "date": "2026-08-09",
             "turnCount": 7,
             "averageTurnMinutes": 39,
             "slaCompliancePercentage": 85
@@ -190,43 +190,43 @@
         "slaCompliancePercentage": 77.1,
         "dailyPerformance": [
           {
-            "date": "2026-07-21",
+            "date": "2026-08-03",
             "turnCount": 5,
             "averageTurnMinutes": 36,
             "slaCompliancePercentage": 75
           },
           {
-            "date": "2026-07-22",
+            "date": "2026-08-04",
             "turnCount": 6,
             "averageTurnMinutes": 37,
             "slaCompliancePercentage": 81
           },
           {
-            "date": "2026-07-23",
+            "date": "2026-08-05",
             "turnCount": 7,
             "averageTurnMinutes": 38,
             "slaCompliancePercentage": 78
           },
           {
-            "date": "2026-07-24",
+            "date": "2026-08-06",
             "turnCount": 5,
             "averageTurnMinutes": 36,
             "slaCompliancePercentage": 72
           },
           {
-            "date": "2026-07-25",
+            "date": "2026-08-07",
             "turnCount": 6,
             "averageTurnMinutes": 37,
             "slaCompliancePercentage": 80
           },
           {
-            "date": "2026-07-26",
+            "date": "2026-08-08",
             "turnCount": 7,
             "averageTurnMinutes": 38,
             "slaCompliancePercentage": 76
           },
           {
-            "date": "2026-07-27",
+            "date": "2026-08-09",
             "turnCount": 5,
             "averageTurnMinutes": 36,
             "slaCompliancePercentage": 79
@@ -242,43 +242,43 @@
         "slaCompliancePercentage": 90.6,
         "dailyPerformance": [
           {
-            "date": "2026-07-21",
+            "date": "2026-08-03",
             "turnCount": 6,
             "averageTurnMinutes": 41,
             "slaCompliancePercentage": 91
           },
           {
-            "date": "2026-07-22",
+            "date": "2026-08-04",
             "turnCount": 7,
             "averageTurnMinutes": 42,
             "slaCompliancePercentage": 94
           },
           {
-            "date": "2026-07-23",
+            "date": "2026-08-05",
             "turnCount": 5,
             "averageTurnMinutes": 40,
             "slaCompliancePercentage": 89
           },
           {
-            "date": "2026-07-24",
+            "date": "2026-08-06",
             "turnCount": 6,
             "averageTurnMinutes": 41,
             "slaCompliancePercentage": 93
           },
           {
-            "date": "2026-07-25",
+            "date": "2026-08-07",
             "turnCount": 7,
             "averageTurnMinutes": 42,
             "slaCompliancePercentage": 90
           },
           {
-            "date": "2026-07-26",
+            "date": "2026-08-08",
             "turnCount": 5,
             "averageTurnMinutes": 40,
             "slaCompliancePercentage": 92
           },
           {
-            "date": "2026-07-27",
+            "date": "2026-08-09",
             "turnCount": 6,
             "averageTurnMinutes": 41,
             "slaCompliancePercentage": 95
@@ -297,183 +297,183 @@
       "slaCompliancePercentage": 83.3,
       "dailyPerformance": [
         {
-          "date": "2026-07-21",
+          "date": "2026-08-03",
           "turnCount": 5,
           "averageTurnMinutes": 38,
           "slaCompliancePercentage": 86
         },
         {
-          "date": "2026-07-22",
+          "date": "2026-08-04",
           "turnCount": 6,
           "averageTurnMinutes": 39,
           "slaCompliancePercentage": 82
         },
         {
-          "date": "2026-07-23",
+          "date": "2026-08-05",
           "turnCount": 7,
           "averageTurnMinutes": 40,
           "slaCompliancePercentage": 84
         },
         {
-          "date": "2026-07-24",
+          "date": "2026-08-06",
           "turnCount": 5,
           "averageTurnMinutes": 38,
           "slaCompliancePercentage": 79
         },
         {
-          "date": "2026-07-25",
+          "date": "2026-08-07",
           "turnCount": 6,
           "averageTurnMinutes": 39,
           "slaCompliancePercentage": 88
         },
         {
-          "date": "2026-07-26",
+          "date": "2026-08-08",
           "turnCount": 7,
           "averageTurnMinutes": 40,
           "slaCompliancePercentage": 85
         },
         {
-          "date": "2026-07-27",
+          "date": "2026-08-09",
           "turnCount": 5,
           "averageTurnMinutes": 38,
           "slaCompliancePercentage": 80
         }
       ],
-      "from": "2026-07-21",
-      "to": "2026-07-27",
+      "from": "2026-08-03",
+      "to": "2026-08-09",
       "turns": [
         {
           "flightNumber": "EZY7001",
-          "arrivalDateTime": "2026-07-21T07:00:00",
-          "departureDateTime": "2026-07-21T07:36:00",
+          "arrivalDateTime": "2026-08-03T07:00:00",
+          "departureDateTime": "2026-08-03T07:36:00",
           "totalTurnMinutes": 36,
           "slaTargetMinutes": 40,
           "metSla": true,
           "operations": [
             {
               "eventType": "aircraftUnloading",
-              "startedAt": "2026-07-21T07:02:00",
-              "completedAt": "2026-07-21T07:09:00",
+              "startedAt": "2026-08-03T07:02:00",
+              "completedAt": "2026-08-03T07:09:00",
               "durationMinutes": 7
             },
             {
               "eventType": "aircraftCleaning",
-              "startedAt": "2026-07-21T07:10:00",
-              "completedAt": "2026-07-21T07:16:00",
+              "startedAt": "2026-08-03T07:10:00",
+              "completedAt": "2026-08-03T07:16:00",
               "durationMinutes": 6
             },
             {
               "eventType": "aircraftLoading",
-              "startedAt": "2026-07-21T07:17:00",
-              "completedAt": "2026-07-21T07:28:00",
+              "startedAt": "2026-08-03T07:17:00",
+              "completedAt": "2026-08-03T07:28:00",
               "durationMinutes": 11
             },
             {
               "eventType": "departurePreparation",
-              "startedAt": "2026-07-21T07:29:00",
-              "completedAt": "2026-07-21T07:34:00",
+              "startedAt": "2026-08-03T07:29:00",
+              "completedAt": "2026-08-03T07:34:00",
               "durationMinutes": 5
             }
           ]
         },
         {
           "flightNumber": "EZY7002",
-          "arrivalDateTime": "2026-07-22T10:00:00",
-          "departureDateTime": "2026-07-22T10:39:00",
+          "arrivalDateTime": "2026-08-04T10:00:00",
+          "departureDateTime": "2026-08-04T10:39:00",
           "totalTurnMinutes": 39,
           "slaTargetMinutes": 40,
           "metSla": true,
           "operations": [
             {
               "eventType": "aircraftUnloading",
-              "startedAt": "2026-07-22T10:02:00",
-              "completedAt": "2026-07-22T10:10:00",
+              "startedAt": "2026-08-04T10:02:00",
+              "completedAt": "2026-08-04T10:10:00",
               "durationMinutes": 8
             },
             {
               "eventType": "aircraftCleaning",
-              "startedAt": "2026-07-22T10:11:00",
-              "completedAt": "2026-07-22T10:17:00",
+              "startedAt": "2026-08-04T10:11:00",
+              "completedAt": "2026-08-04T10:17:00",
               "durationMinutes": 6
             },
             {
               "eventType": "aircraftLoading",
-              "startedAt": "2026-07-22T10:18:00",
-              "completedAt": "2026-07-22T10:30:00",
+              "startedAt": "2026-08-04T10:18:00",
+              "completedAt": "2026-08-04T10:30:00",
               "durationMinutes": 12
             },
             {
               "eventType": "departurePreparation",
-              "startedAt": "2026-07-22T10:31:00",
-              "completedAt": "2026-07-22T10:37:00",
+              "startedAt": "2026-08-04T10:31:00",
+              "completedAt": "2026-08-04T10:37:00",
               "durationMinutes": 6
             }
           ]
         },
         {
           "flightNumber": "EZY7003",
-          "arrivalDateTime": "2026-07-23T13:00:00",
-          "departureDateTime": "2026-07-23T13:40:00",
+          "arrivalDateTime": "2026-08-05T13:00:00",
+          "departureDateTime": "2026-08-05T13:40:00",
           "totalTurnMinutes": 40,
           "slaTargetMinutes": 40,
           "metSla": true,
           "operations": [
             {
               "eventType": "aircraftUnloading",
-              "startedAt": "2026-07-23T13:02:00",
-              "completedAt": "2026-07-23T13:11:00",
+              "startedAt": "2026-08-05T13:02:00",
+              "completedAt": "2026-08-05T13:11:00",
               "durationMinutes": 9
             },
             {
               "eventType": "aircraftCleaning",
-              "startedAt": "2026-07-23T13:12:00",
-              "completedAt": "2026-07-23T13:18:00",
+              "startedAt": "2026-08-05T13:12:00",
+              "completedAt": "2026-08-05T13:18:00",
               "durationMinutes": 6
             },
             {
               "eventType": "aircraftLoading",
-              "startedAt": "2026-07-23T13:19:00",
-              "completedAt": "2026-07-23T13:32:00",
+              "startedAt": "2026-08-05T13:19:00",
+              "completedAt": "2026-08-05T13:32:00",
               "durationMinutes": 13
             },
             {
               "eventType": "departurePreparation",
-              "startedAt": "2026-07-23T13:33:00",
-              "completedAt": "2026-07-23T13:38:00",
+              "startedAt": "2026-08-05T13:33:00",
+              "completedAt": "2026-08-05T13:38:00",
               "durationMinutes": 5
             }
           ]
         },
         {
           "flightNumber": "EZY7004",
-          "arrivalDateTime": "2026-07-24T16:00:00",
-          "departureDateTime": "2026-07-24T16:40:00",
+          "arrivalDateTime": "2026-08-06T16:00:00",
+          "departureDateTime": "2026-08-06T16:40:00",
           "totalTurnMinutes": 40,
           "slaTargetMinutes": 40,
           "metSla": true,
           "operations": [
             {
               "eventType": "aircraftUnloading",
-              "startedAt": "2026-07-24T16:02:00",
-              "completedAt": "2026-07-24T16:09:00",
+              "startedAt": "2026-08-06T16:02:00",
+              "completedAt": "2026-08-06T16:09:00",
               "durationMinutes": 7
             },
             {
               "eventType": "aircraftCleaning",
-              "startedAt": "2026-07-24T16:10:00",
-              "completedAt": "2026-07-24T16:16:00",
+              "startedAt": "2026-08-06T16:10:00",
+              "completedAt": "2026-08-06T16:16:00",
               "durationMinutes": 6
             },
             {
               "eventType": "aircraftLoading",
-              "startedAt": "2026-07-24T16:17:00",
-              "completedAt": "2026-07-24T16:31:00",
+              "startedAt": "2026-08-06T16:17:00",
+              "completedAt": "2026-08-06T16:31:00",
               "durationMinutes": 14
             },
             {
               "eventType": "departurePreparation",
-              "startedAt": "2026-07-24T16:32:00",
-              "completedAt": "2026-07-24T16:38:00",
+              "startedAt": "2026-08-06T16:32:00",
+              "completedAt": "2026-08-06T16:38:00",
               "durationMinutes": 6
             }
           ]
@@ -489,183 +489,183 @@
       "slaCompliancePercentage": 71.1,
       "dailyPerformance": [
         {
-          "date": "2026-07-21",
+          "date": "2026-08-03",
           "turnCount": 6,
           "averageTurnMinutes": 36,
           "slaCompliancePercentage": 70
         },
         {
-          "date": "2026-07-22",
+          "date": "2026-08-04",
           "turnCount": 7,
           "averageTurnMinutes": 37,
           "slaCompliancePercentage": 74
         },
         {
-          "date": "2026-07-23",
+          "date": "2026-08-05",
           "turnCount": 5,
           "averageTurnMinutes": 35,
           "slaCompliancePercentage": 68
         },
         {
-          "date": "2026-07-24",
+          "date": "2026-08-06",
           "turnCount": 6,
           "averageTurnMinutes": 36,
           "slaCompliancePercentage": 76
         },
         {
-          "date": "2026-07-25",
+          "date": "2026-08-07",
           "turnCount": 7,
           "averageTurnMinutes": 37,
           "slaCompliancePercentage": 73
         },
         {
-          "date": "2026-07-26",
+          "date": "2026-08-08",
           "turnCount": 5,
           "averageTurnMinutes": 35,
           "slaCompliancePercentage": 71
         },
         {
-          "date": "2026-07-27",
+          "date": "2026-08-09",
           "turnCount": 6,
           "averageTurnMinutes": 36,
           "slaCompliancePercentage": 66
         }
       ],
-      "from": "2026-07-21",
-      "to": "2026-07-27",
+      "from": "2026-08-03",
+      "to": "2026-08-09",
       "turns": [
         {
           "flightNumber": "EZY7101",
-          "arrivalDateTime": "2026-07-21T07:02:00",
-          "departureDateTime": "2026-07-21T07:41:00",
+          "arrivalDateTime": "2026-08-03T07:02:00",
+          "departureDateTime": "2026-08-03T07:41:00",
           "totalTurnMinutes": 39,
           "slaTargetMinutes": 35,
           "metSla": false,
           "operations": [
             {
               "eventType": "aircraftUnloading",
-              "startedAt": "2026-07-21T07:04:00",
-              "completedAt": "2026-07-21T07:12:00",
+              "startedAt": "2026-08-03T07:04:00",
+              "completedAt": "2026-08-03T07:12:00",
               "durationMinutes": 8
             },
             {
               "eventType": "aircraftCleaning",
-              "startedAt": "2026-07-21T07:13:00",
-              "completedAt": "2026-07-21T07:20:00",
+              "startedAt": "2026-08-03T07:13:00",
+              "completedAt": "2026-08-03T07:20:00",
               "durationMinutes": 7
             },
             {
               "eventType": "aircraftLoading",
-              "startedAt": "2026-07-21T07:21:00",
-              "completedAt": "2026-07-21T07:32:00",
+              "startedAt": "2026-08-03T07:21:00",
+              "completedAt": "2026-08-03T07:32:00",
               "durationMinutes": 11
             },
             {
               "eventType": "departurePreparation",
-              "startedAt": "2026-07-21T07:33:00",
-              "completedAt": "2026-07-21T07:39:00",
+              "startedAt": "2026-08-03T07:33:00",
+              "completedAt": "2026-08-03T07:39:00",
               "durationMinutes": 6
             }
           ]
         },
         {
           "flightNumber": "EZY7102",
-          "arrivalDateTime": "2026-07-22T10:02:00",
-          "departureDateTime": "2026-07-22T10:42:00",
+          "arrivalDateTime": "2026-08-04T10:02:00",
+          "departureDateTime": "2026-08-04T10:42:00",
           "totalTurnMinutes": 40,
           "slaTargetMinutes": 35,
           "metSla": false,
           "operations": [
             {
               "eventType": "aircraftUnloading",
-              "startedAt": "2026-07-22T10:04:00",
-              "completedAt": "2026-07-22T10:13:00",
+              "startedAt": "2026-08-04T10:04:00",
+              "completedAt": "2026-08-04T10:13:00",
               "durationMinutes": 9
             },
             {
               "eventType": "aircraftCleaning",
-              "startedAt": "2026-07-22T10:14:00",
-              "completedAt": "2026-07-22T10:21:00",
+              "startedAt": "2026-08-04T10:14:00",
+              "completedAt": "2026-08-04T10:21:00",
               "durationMinutes": 7
             },
             {
               "eventType": "aircraftLoading",
-              "startedAt": "2026-07-22T10:22:00",
-              "completedAt": "2026-07-22T10:34:00",
+              "startedAt": "2026-08-04T10:22:00",
+              "completedAt": "2026-08-04T10:34:00",
               "durationMinutes": 12
             },
             {
               "eventType": "departurePreparation",
-              "startedAt": "2026-07-22T10:35:00",
-              "completedAt": "2026-07-22T10:40:00",
+              "startedAt": "2026-08-04T10:35:00",
+              "completedAt": "2026-08-04T10:40:00",
               "durationMinutes": 5
             }
           ]
         },
         {
           "flightNumber": "EZY7103",
-          "arrivalDateTime": "2026-07-23T13:02:00",
-          "departureDateTime": "2026-07-23T13:42:00",
+          "arrivalDateTime": "2026-08-05T13:02:00",
+          "departureDateTime": "2026-08-05T13:42:00",
           "totalTurnMinutes": 40,
           "slaTargetMinutes": 35,
           "metSla": false,
           "operations": [
             {
               "eventType": "aircraftUnloading",
-              "startedAt": "2026-07-23T13:04:00",
-              "completedAt": "2026-07-23T13:11:00",
+              "startedAt": "2026-08-05T13:04:00",
+              "completedAt": "2026-08-05T13:11:00",
               "durationMinutes": 7
             },
             {
               "eventType": "aircraftCleaning",
-              "startedAt": "2026-07-23T13:12:00",
-              "completedAt": "2026-07-23T13:19:00",
+              "startedAt": "2026-08-05T13:12:00",
+              "completedAt": "2026-08-05T13:19:00",
               "durationMinutes": 7
             },
             {
               "eventType": "aircraftLoading",
-              "startedAt": "2026-07-23T13:20:00",
-              "completedAt": "2026-07-23T13:33:00",
+              "startedAt": "2026-08-05T13:20:00",
+              "completedAt": "2026-08-05T13:33:00",
               "durationMinutes": 13
             },
             {
               "eventType": "departurePreparation",
-              "startedAt": "2026-07-23T13:34:00",
-              "completedAt": "2026-07-23T13:40:00",
+              "startedAt": "2026-08-05T13:34:00",
+              "completedAt": "2026-08-05T13:40:00",
               "durationMinutes": 6
             }
           ]
         },
         {
           "flightNumber": "EZY7104",
-          "arrivalDateTime": "2026-07-24T16:02:00",
-          "departureDateTime": "2026-07-24T16:43:00",
+          "arrivalDateTime": "2026-08-06T16:02:00",
+          "departureDateTime": "2026-08-06T16:43:00",
           "totalTurnMinutes": 41,
           "slaTargetMinutes": 35,
           "metSla": false,
           "operations": [
             {
               "eventType": "aircraftUnloading",
-              "startedAt": "2026-07-24T16:04:00",
-              "completedAt": "2026-07-24T16:12:00",
+              "startedAt": "2026-08-06T16:04:00",
+              "completedAt": "2026-08-06T16:12:00",
               "durationMinutes": 8
             },
             {
               "eventType": "aircraftCleaning",
-              "startedAt": "2026-07-24T16:13:00",
-              "completedAt": "2026-07-24T16:20:00",
+              "startedAt": "2026-08-06T16:13:00",
+              "completedAt": "2026-08-06T16:20:00",
               "durationMinutes": 7
             },
             {
               "eventType": "aircraftLoading",
-              "startedAt": "2026-07-24T16:21:00",
-              "completedAt": "2026-07-24T16:35:00",
+              "startedAt": "2026-08-06T16:21:00",
+              "completedAt": "2026-08-06T16:35:00",
               "durationMinutes": 14
             },
             {
               "eventType": "departurePreparation",
-              "startedAt": "2026-07-24T16:36:00",
-              "completedAt": "2026-07-24T16:41:00",
+              "startedAt": "2026-08-06T16:36:00",
+              "completedAt": "2026-08-06T16:41:00",
               "durationMinutes": 5
             }
           ]
@@ -681,183 +681,183 @@
       "slaCompliancePercentage": 87.5,
       "dailyPerformance": [
         {
-          "date": "2026-07-21",
+          "date": "2026-08-03",
           "turnCount": 7,
           "averageTurnMinutes": 39,
           "slaCompliancePercentage": 89
         },
         {
-          "date": "2026-07-22",
+          "date": "2026-08-04",
           "turnCount": 5,
           "averageTurnMinutes": 37,
           "slaCompliancePercentage": 86
         },
         {
-          "date": "2026-07-23",
+          "date": "2026-08-05",
           "turnCount": 6,
           "averageTurnMinutes": 38,
           "slaCompliancePercentage": 91
         },
         {
-          "date": "2026-07-24",
+          "date": "2026-08-06",
           "turnCount": 7,
           "averageTurnMinutes": 39,
           "slaCompliancePercentage": 88
         },
         {
-          "date": "2026-07-25",
+          "date": "2026-08-07",
           "turnCount": 5,
           "averageTurnMinutes": 37,
           "slaCompliancePercentage": 84
         },
         {
-          "date": "2026-07-26",
+          "date": "2026-08-08",
           "turnCount": 6,
           "averageTurnMinutes": 38,
           "slaCompliancePercentage": 90
         },
         {
-          "date": "2026-07-27",
+          "date": "2026-08-09",
           "turnCount": 7,
           "averageTurnMinutes": 39,
           "slaCompliancePercentage": 85
         }
       ],
-      "from": "2026-07-21",
-      "to": "2026-07-27",
+      "from": "2026-08-03",
+      "to": "2026-08-09",
       "turns": [
         {
           "flightNumber": "EZY7201",
-          "arrivalDateTime": "2026-07-21T07:04:00",
-          "departureDateTime": "2026-07-21T07:44:00",
+          "arrivalDateTime": "2026-08-03T07:04:00",
+          "departureDateTime": "2026-08-03T07:44:00",
           "totalTurnMinutes": 40,
           "slaTargetMinutes": 42,
           "metSla": true,
           "operations": [
             {
               "eventType": "aircraftUnloading",
-              "startedAt": "2026-07-21T07:06:00",
-              "completedAt": "2026-07-21T07:15:00",
+              "startedAt": "2026-08-03T07:06:00",
+              "completedAt": "2026-08-03T07:15:00",
               "durationMinutes": 9
             },
             {
               "eventType": "aircraftCleaning",
-              "startedAt": "2026-07-21T07:16:00",
-              "completedAt": "2026-07-21T07:24:00",
+              "startedAt": "2026-08-03T07:16:00",
+              "completedAt": "2026-08-03T07:24:00",
               "durationMinutes": 8
             },
             {
               "eventType": "aircraftLoading",
-              "startedAt": "2026-07-21T07:25:00",
-              "completedAt": "2026-07-21T07:36:00",
+              "startedAt": "2026-08-03T07:25:00",
+              "completedAt": "2026-08-03T07:36:00",
               "durationMinutes": 11
             },
             {
               "eventType": "departurePreparation",
-              "startedAt": "2026-07-21T07:37:00",
-              "completedAt": "2026-07-21T07:42:00",
+              "startedAt": "2026-08-03T07:37:00",
+              "completedAt": "2026-08-03T07:42:00",
               "durationMinutes": 5
             }
           ]
         },
         {
           "flightNumber": "EZY7202",
-          "arrivalDateTime": "2026-07-22T10:04:00",
-          "departureDateTime": "2026-07-22T10:44:00",
+          "arrivalDateTime": "2026-08-04T10:04:00",
+          "departureDateTime": "2026-08-04T10:44:00",
           "totalTurnMinutes": 40,
           "slaTargetMinutes": 42,
           "metSla": true,
           "operations": [
             {
               "eventType": "aircraftUnloading",
-              "startedAt": "2026-07-22T10:06:00",
-              "completedAt": "2026-07-22T10:13:00",
+              "startedAt": "2026-08-04T10:06:00",
+              "completedAt": "2026-08-04T10:13:00",
               "durationMinutes": 7
             },
             {
               "eventType": "aircraftCleaning",
-              "startedAt": "2026-07-22T10:14:00",
-              "completedAt": "2026-07-22T10:22:00",
+              "startedAt": "2026-08-04T10:14:00",
+              "completedAt": "2026-08-04T10:22:00",
               "durationMinutes": 8
             },
             {
               "eventType": "aircraftLoading",
-              "startedAt": "2026-07-22T10:23:00",
-              "completedAt": "2026-07-22T10:35:00",
+              "startedAt": "2026-08-04T10:23:00",
+              "completedAt": "2026-08-04T10:35:00",
               "durationMinutes": 12
             },
             {
               "eventType": "departurePreparation",
-              "startedAt": "2026-07-22T10:36:00",
-              "completedAt": "2026-07-22T10:42:00",
+              "startedAt": "2026-08-04T10:36:00",
+              "completedAt": "2026-08-04T10:42:00",
               "durationMinutes": 6
             }
           ]
         },
         {
           "flightNumber": "EZY7203",
-          "arrivalDateTime": "2026-07-23T13:04:00",
-          "departureDateTime": "2026-07-23T13:45:00",
+          "arrivalDateTime": "2026-08-05T13:04:00",
+          "departureDateTime": "2026-08-05T13:45:00",
           "totalTurnMinutes": 41,
           "slaTargetMinutes": 42,
           "metSla": true,
           "operations": [
             {
               "eventType": "aircraftUnloading",
-              "startedAt": "2026-07-23T13:06:00",
-              "completedAt": "2026-07-23T13:14:00",
+              "startedAt": "2026-08-05T13:06:00",
+              "completedAt": "2026-08-05T13:14:00",
               "durationMinutes": 8
             },
             {
               "eventType": "aircraftCleaning",
-              "startedAt": "2026-07-23T13:15:00",
-              "completedAt": "2026-07-23T13:23:00",
+              "startedAt": "2026-08-05T13:15:00",
+              "completedAt": "2026-08-05T13:23:00",
               "durationMinutes": 8
             },
             {
               "eventType": "aircraftLoading",
-              "startedAt": "2026-07-23T13:24:00",
-              "completedAt": "2026-07-23T13:37:00",
+              "startedAt": "2026-08-05T13:24:00",
+              "completedAt": "2026-08-05T13:37:00",
               "durationMinutes": 13
             },
             {
               "eventType": "departurePreparation",
-              "startedAt": "2026-07-23T13:38:00",
-              "completedAt": "2026-07-23T13:43:00",
+              "startedAt": "2026-08-05T13:38:00",
+              "completedAt": "2026-08-05T13:43:00",
               "durationMinutes": 5
             }
           ]
         },
         {
           "flightNumber": "EZY7204",
-          "arrivalDateTime": "2026-07-24T16:04:00",
-          "departureDateTime": "2026-07-24T16:48:00",
+          "arrivalDateTime": "2026-08-06T16:04:00",
+          "departureDateTime": "2026-08-06T16:48:00",
           "totalTurnMinutes": 44,
           "slaTargetMinutes": 42,
           "metSla": false,
           "operations": [
             {
               "eventType": "aircraftUnloading",
-              "startedAt": "2026-07-24T16:06:00",
-              "completedAt": "2026-07-24T16:15:00",
+              "startedAt": "2026-08-06T16:06:00",
+              "completedAt": "2026-08-06T16:15:00",
               "durationMinutes": 9
             },
             {
               "eventType": "aircraftCleaning",
-              "startedAt": "2026-07-24T16:16:00",
-              "completedAt": "2026-07-24T16:24:00",
+              "startedAt": "2026-08-06T16:16:00",
+              "completedAt": "2026-08-06T16:24:00",
               "durationMinutes": 8
             },
             {
               "eventType": "aircraftLoading",
-              "startedAt": "2026-07-24T16:25:00",
-              "completedAt": "2026-07-24T16:39:00",
+              "startedAt": "2026-08-06T16:25:00",
+              "completedAt": "2026-08-06T16:39:00",
               "durationMinutes": 14
             },
             {
               "eventType": "departurePreparation",
-              "startedAt": "2026-07-24T16:40:00",
-              "completedAt": "2026-07-24T16:46:00",
+              "startedAt": "2026-08-06T16:40:00",
+              "completedAt": "2026-08-06T16:46:00",
               "durationMinutes": 6
             }
           ]
@@ -873,183 +873,183 @@
       "slaCompliancePercentage": 77.1,
       "dailyPerformance": [
         {
-          "date": "2026-07-21",
+          "date": "2026-08-03",
           "turnCount": 5,
           "averageTurnMinutes": 36,
           "slaCompliancePercentage": 75
         },
         {
-          "date": "2026-07-22",
+          "date": "2026-08-04",
           "turnCount": 6,
           "averageTurnMinutes": 37,
           "slaCompliancePercentage": 81
         },
         {
-          "date": "2026-07-23",
+          "date": "2026-08-05",
           "turnCount": 7,
           "averageTurnMinutes": 38,
           "slaCompliancePercentage": 78
         },
         {
-          "date": "2026-07-24",
+          "date": "2026-08-06",
           "turnCount": 5,
           "averageTurnMinutes": 36,
           "slaCompliancePercentage": 72
         },
         {
-          "date": "2026-07-25",
+          "date": "2026-08-07",
           "turnCount": 6,
           "averageTurnMinutes": 37,
           "slaCompliancePercentage": 80
         },
         {
-          "date": "2026-07-26",
+          "date": "2026-08-08",
           "turnCount": 7,
           "averageTurnMinutes": 38,
           "slaCompliancePercentage": 76
         },
         {
-          "date": "2026-07-27",
+          "date": "2026-08-09",
           "turnCount": 5,
           "averageTurnMinutes": 36,
           "slaCompliancePercentage": 79
         }
       ],
-      "from": "2026-07-21",
-      "to": "2026-07-27",
+      "from": "2026-08-03",
+      "to": "2026-08-09",
       "turns": [
         {
           "flightNumber": "EZY7301",
-          "arrivalDateTime": "2026-07-21T07:06:00",
-          "departureDateTime": "2026-07-21T07:43:00",
+          "arrivalDateTime": "2026-08-03T07:06:00",
+          "departureDateTime": "2026-08-03T07:43:00",
           "totalTurnMinutes": 37,
           "slaTargetMinutes": 38,
           "metSla": true,
           "operations": [
             {
               "eventType": "aircraftUnloading",
-              "startedAt": "2026-07-21T07:08:00",
-              "completedAt": "2026-07-21T07:15:00",
+              "startedAt": "2026-08-03T07:08:00",
+              "completedAt": "2026-08-03T07:15:00",
               "durationMinutes": 7
             },
             {
               "eventType": "aircraftCleaning",
-              "startedAt": "2026-07-21T07:16:00",
-              "completedAt": "2026-07-21T07:22:00",
+              "startedAt": "2026-08-03T07:16:00",
+              "completedAt": "2026-08-03T07:22:00",
               "durationMinutes": 6
             },
             {
               "eventType": "aircraftLoading",
-              "startedAt": "2026-07-21T07:23:00",
-              "completedAt": "2026-07-21T07:34:00",
+              "startedAt": "2026-08-03T07:23:00",
+              "completedAt": "2026-08-03T07:34:00",
               "durationMinutes": 11
             },
             {
               "eventType": "departurePreparation",
-              "startedAt": "2026-07-21T07:35:00",
-              "completedAt": "2026-07-21T07:41:00",
+              "startedAt": "2026-08-03T07:35:00",
+              "completedAt": "2026-08-03T07:41:00",
               "durationMinutes": 6
             }
           ]
         },
         {
           "flightNumber": "EZY7302",
-          "arrivalDateTime": "2026-07-22T10:06:00",
-          "departureDateTime": "2026-07-22T10:44:00",
+          "arrivalDateTime": "2026-08-04T10:06:00",
+          "departureDateTime": "2026-08-04T10:44:00",
           "totalTurnMinutes": 38,
           "slaTargetMinutes": 38,
           "metSla": true,
           "operations": [
             {
               "eventType": "aircraftUnloading",
-              "startedAt": "2026-07-22T10:08:00",
-              "completedAt": "2026-07-22T10:16:00",
+              "startedAt": "2026-08-04T10:08:00",
+              "completedAt": "2026-08-04T10:16:00",
               "durationMinutes": 8
             },
             {
               "eventType": "aircraftCleaning",
-              "startedAt": "2026-07-22T10:17:00",
-              "completedAt": "2026-07-22T10:23:00",
+              "startedAt": "2026-08-04T10:17:00",
+              "completedAt": "2026-08-04T10:23:00",
               "durationMinutes": 6
             },
             {
               "eventType": "aircraftLoading",
-              "startedAt": "2026-07-22T10:24:00",
-              "completedAt": "2026-07-22T10:36:00",
+              "startedAt": "2026-08-04T10:24:00",
+              "completedAt": "2026-08-04T10:36:00",
               "durationMinutes": 12
             },
             {
               "eventType": "departurePreparation",
-              "startedAt": "2026-07-22T10:37:00",
-              "completedAt": "2026-07-22T10:42:00",
+              "startedAt": "2026-08-04T10:37:00",
+              "completedAt": "2026-08-04T10:42:00",
               "durationMinutes": 5
             }
           ]
         },
         {
           "flightNumber": "EZY7303",
-          "arrivalDateTime": "2026-07-23T13:06:00",
-          "departureDateTime": "2026-07-23T13:47:00",
+          "arrivalDateTime": "2026-08-05T13:06:00",
+          "departureDateTime": "2026-08-05T13:47:00",
           "totalTurnMinutes": 41,
           "slaTargetMinutes": 38,
           "metSla": false,
           "operations": [
             {
               "eventType": "aircraftUnloading",
-              "startedAt": "2026-07-23T13:08:00",
-              "completedAt": "2026-07-23T13:17:00",
+              "startedAt": "2026-08-05T13:08:00",
+              "completedAt": "2026-08-05T13:17:00",
               "durationMinutes": 9
             },
             {
               "eventType": "aircraftCleaning",
-              "startedAt": "2026-07-23T13:18:00",
-              "completedAt": "2026-07-23T13:24:00",
+              "startedAt": "2026-08-05T13:18:00",
+              "completedAt": "2026-08-05T13:24:00",
               "durationMinutes": 6
             },
             {
               "eventType": "aircraftLoading",
-              "startedAt": "2026-07-23T13:25:00",
-              "completedAt": "2026-07-23T13:38:00",
+              "startedAt": "2026-08-05T13:25:00",
+              "completedAt": "2026-08-05T13:38:00",
               "durationMinutes": 13
             },
             {
               "eventType": "departurePreparation",
-              "startedAt": "2026-07-23T13:39:00",
-              "completedAt": "2026-07-23T13:45:00",
+              "startedAt": "2026-08-05T13:39:00",
+              "completedAt": "2026-08-05T13:45:00",
               "durationMinutes": 6
             }
           ]
         },
         {
           "flightNumber": "EZY7304",
-          "arrivalDateTime": "2026-07-24T16:06:00",
-          "departureDateTime": "2026-07-24T16:45:00",
+          "arrivalDateTime": "2026-08-06T16:06:00",
+          "departureDateTime": "2026-08-06T16:45:00",
           "totalTurnMinutes": 39,
           "slaTargetMinutes": 38,
           "metSla": false,
           "operations": [
             {
               "eventType": "aircraftUnloading",
-              "startedAt": "2026-07-24T16:08:00",
-              "completedAt": "2026-07-24T16:15:00",
+              "startedAt": "2026-08-06T16:08:00",
+              "completedAt": "2026-08-06T16:15:00",
               "durationMinutes": 7
             },
             {
               "eventType": "aircraftCleaning",
-              "startedAt": "2026-07-24T16:16:00",
-              "completedAt": "2026-07-24T16:22:00",
+              "startedAt": "2026-08-06T16:16:00",
+              "completedAt": "2026-08-06T16:22:00",
               "durationMinutes": 6
             },
             {
               "eventType": "aircraftLoading",
-              "startedAt": "2026-07-24T16:23:00",
-              "completedAt": "2026-07-24T16:37:00",
+              "startedAt": "2026-08-06T16:23:00",
+              "completedAt": "2026-08-06T16:37:00",
               "durationMinutes": 14
             },
             {
               "eventType": "departurePreparation",
-              "startedAt": "2026-07-24T16:38:00",
-              "completedAt": "2026-07-24T16:43:00",
+              "startedAt": "2026-08-06T16:38:00",
+              "completedAt": "2026-08-06T16:43:00",
               "durationMinutes": 5
             }
           ]
@@ -1065,183 +1065,183 @@
       "slaCompliancePercentage": 90.6,
       "dailyPerformance": [
         {
-          "date": "2026-07-21",
+          "date": "2026-08-03",
           "turnCount": 6,
           "averageTurnMinutes": 41,
           "slaCompliancePercentage": 91
         },
         {
-          "date": "2026-07-22",
+          "date": "2026-08-04",
           "turnCount": 7,
           "averageTurnMinutes": 42,
           "slaCompliancePercentage": 94
         },
         {
-          "date": "2026-07-23",
+          "date": "2026-08-05",
           "turnCount": 5,
           "averageTurnMinutes": 40,
           "slaCompliancePercentage": 89
         },
         {
-          "date": "2026-07-24",
+          "date": "2026-08-06",
           "turnCount": 6,
           "averageTurnMinutes": 41,
           "slaCompliancePercentage": 93
         },
         {
-          "date": "2026-07-25",
+          "date": "2026-08-07",
           "turnCount": 7,
           "averageTurnMinutes": 42,
           "slaCompliancePercentage": 90
         },
         {
-          "date": "2026-07-26",
+          "date": "2026-08-08",
           "turnCount": 5,
           "averageTurnMinutes": 40,
           "slaCompliancePercentage": 92
         },
         {
-          "date": "2026-07-27",
+          "date": "2026-08-09",
           "turnCount": 6,
           "averageTurnMinutes": 41,
           "slaCompliancePercentage": 95
         }
       ],
-      "from": "2026-07-21",
-      "to": "2026-07-27",
+      "from": "2026-08-03",
+      "to": "2026-08-09",
       "turns": [
         {
           "flightNumber": "EZY7401",
-          "arrivalDateTime": "2026-07-21T07:08:00",
-          "departureDateTime": "2026-07-21T07:46:00",
+          "arrivalDateTime": "2026-08-03T07:08:00",
+          "departureDateTime": "2026-08-03T07:46:00",
           "totalTurnMinutes": 38,
           "slaTargetMinutes": 45,
           "metSla": true,
           "operations": [
             {
               "eventType": "aircraftUnloading",
-              "startedAt": "2026-07-21T07:10:00",
-              "completedAt": "2026-07-21T07:18:00",
+              "startedAt": "2026-08-03T07:10:00",
+              "completedAt": "2026-08-03T07:18:00",
               "durationMinutes": 8
             },
             {
               "eventType": "aircraftCleaning",
-              "startedAt": "2026-07-21T07:19:00",
-              "completedAt": "2026-07-21T07:26:00",
+              "startedAt": "2026-08-03T07:19:00",
+              "completedAt": "2026-08-03T07:26:00",
               "durationMinutes": 7
             },
             {
               "eventType": "aircraftLoading",
-              "startedAt": "2026-07-21T07:27:00",
-              "completedAt": "2026-07-21T07:38:00",
+              "startedAt": "2026-08-03T07:27:00",
+              "completedAt": "2026-08-03T07:38:00",
               "durationMinutes": 11
             },
             {
               "eventType": "departurePreparation",
-              "startedAt": "2026-07-21T07:39:00",
-              "completedAt": "2026-07-21T07:44:00",
+              "startedAt": "2026-08-03T07:39:00",
+              "completedAt": "2026-08-03T07:44:00",
               "durationMinutes": 5
             }
           ]
         },
         {
           "flightNumber": "EZY7402",
-          "arrivalDateTime": "2026-07-22T10:08:00",
-          "departureDateTime": "2026-07-22T10:49:00",
+          "arrivalDateTime": "2026-08-04T10:08:00",
+          "departureDateTime": "2026-08-04T10:49:00",
           "totalTurnMinutes": 41,
           "slaTargetMinutes": 45,
           "metSla": true,
           "operations": [
             {
               "eventType": "aircraftUnloading",
-              "startedAt": "2026-07-22T10:10:00",
-              "completedAt": "2026-07-22T10:19:00",
+              "startedAt": "2026-08-04T10:10:00",
+              "completedAt": "2026-08-04T10:19:00",
               "durationMinutes": 9
             },
             {
               "eventType": "aircraftCleaning",
-              "startedAt": "2026-07-22T10:20:00",
-              "completedAt": "2026-07-22T10:27:00",
+              "startedAt": "2026-08-04T10:20:00",
+              "completedAt": "2026-08-04T10:27:00",
               "durationMinutes": 7
             },
             {
               "eventType": "aircraftLoading",
-              "startedAt": "2026-07-22T10:28:00",
-              "completedAt": "2026-07-22T10:40:00",
+              "startedAt": "2026-08-04T10:28:00",
+              "completedAt": "2026-08-04T10:40:00",
               "durationMinutes": 12
             },
             {
               "eventType": "departurePreparation",
-              "startedAt": "2026-07-22T10:41:00",
-              "completedAt": "2026-07-22T10:47:00",
+              "startedAt": "2026-08-04T10:41:00",
+              "completedAt": "2026-08-04T10:47:00",
               "durationMinutes": 6
             }
           ]
         },
         {
           "flightNumber": "EZY7403",
-          "arrivalDateTime": "2026-07-23T13:08:00",
-          "departureDateTime": "2026-07-23T13:47:00",
+          "arrivalDateTime": "2026-08-05T13:08:00",
+          "departureDateTime": "2026-08-05T13:47:00",
           "totalTurnMinutes": 39,
           "slaTargetMinutes": 45,
           "metSla": true,
           "operations": [
             {
               "eventType": "aircraftUnloading",
-              "startedAt": "2026-07-23T13:10:00",
-              "completedAt": "2026-07-23T13:17:00",
+              "startedAt": "2026-08-05T13:10:00",
+              "completedAt": "2026-08-05T13:17:00",
               "durationMinutes": 7
             },
             {
               "eventType": "aircraftCleaning",
-              "startedAt": "2026-07-23T13:18:00",
-              "completedAt": "2026-07-23T13:25:00",
+              "startedAt": "2026-08-05T13:18:00",
+              "completedAt": "2026-08-05T13:25:00",
               "durationMinutes": 7
             },
             {
               "eventType": "aircraftLoading",
-              "startedAt": "2026-07-23T13:26:00",
-              "completedAt": "2026-07-23T13:39:00",
+              "startedAt": "2026-08-05T13:26:00",
+              "completedAt": "2026-08-05T13:39:00",
               "durationMinutes": 13
             },
             {
               "eventType": "departurePreparation",
-              "startedAt": "2026-07-23T13:40:00",
-              "completedAt": "2026-07-23T13:45:00",
+              "startedAt": "2026-08-05T13:40:00",
+              "completedAt": "2026-08-05T13:45:00",
               "durationMinutes": 5
             }
           ]
         },
         {
           "flightNumber": "EZY7404",
-          "arrivalDateTime": "2026-07-24T16:08:00",
-          "departureDateTime": "2026-07-24T16:50:00",
+          "arrivalDateTime": "2026-08-06T16:08:00",
+          "departureDateTime": "2026-08-06T16:50:00",
           "totalTurnMinutes": 42,
           "slaTargetMinutes": 45,
           "metSla": true,
           "operations": [
             {
               "eventType": "aircraftUnloading",
-              "startedAt": "2026-07-24T16:10:00",
-              "completedAt": "2026-07-24T16:18:00",
+              "startedAt": "2026-08-06T16:10:00",
+              "completedAt": "2026-08-06T16:18:00",
               "durationMinutes": 8
             },
             {
               "eventType": "aircraftCleaning",
-              "startedAt": "2026-07-24T16:19:00",
-              "completedAt": "2026-07-24T16:26:00",
+              "startedAt": "2026-08-06T16:19:00",
+              "completedAt": "2026-08-06T16:26:00",
               "durationMinutes": 7
             },
             {
               "eventType": "aircraftLoading",
-              "startedAt": "2026-07-24T16:27:00",
-              "completedAt": "2026-07-24T16:41:00",
+              "startedAt": "2026-08-06T16:27:00",
+              "completedAt": "2026-08-06T16:41:00",
               "durationMinutes": 14
             },
             {
               "eventType": "departurePreparation",
-              "startedAt": "2026-07-24T16:42:00",
-              "completedAt": "2026-07-24T16:48:00",
+              "startedAt": "2026-08-06T16:42:00",
+              "completedAt": "2026-08-06T16:48:00",
               "durationMinutes": 6
             }
           ]

@@ -1,12 +1,26 @@
+import { getApiBaseUrl } from '../config'
 import type { AirportPerformance, DateRange, NetworkPerformance, SlaDefinition } from './types'
 export type { DateRange } from './types'
 
-const apiBaseUrl = (import.meta.env.VITE_API_BASE_URL ?? '').replace(/\/$/, '')
+/**
+ * A non-2xx API response. Carries the status so callers can tell a rejected
+ * date range (400) or a missing airport (404) apart from a server fault (5xx)
+ * and report something more actionable than "the request failed".
+ */
+export class ApiError extends Error {
+  readonly status: number
+
+  constructor(status: number) {
+    super(`The API request failed with status ${status}`)
+    this.name = 'ApiError'
+    this.status = status
+  }
+}
 
 async function request<T>(path: string): Promise<T> {
-  const response = await fetch(`${apiBaseUrl}${path}`)
+  const response = await fetch(`${getApiBaseUrl()}${path}`)
   if (!response.ok) {
-    throw new Error(`The API request failed with status ${response.status}`)
+    throw new ApiError(response.status)
   }
   return response.json() as Promise<T>
 }

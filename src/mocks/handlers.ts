@@ -4,8 +4,8 @@ import { getMockAirport, getMockNetwork, getMockSlas } from './data'
 function rangeFrom(request: Request) {
   const url = new URL(request.url)
   return {
-    from: url.searchParams.get('from') ?? '2026-07-21',
-    to: url.searchParams.get('to') ?? '2026-07-27',
+    from: url.searchParams.get('from') ?? '2026-08-03',
+    to: url.searchParams.get('to') ?? '2026-08-09',
   }
 }
 
