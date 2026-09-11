@@ -6,6 +6,8 @@ An aircraft **turn** begins when an arriving aircraft reaches its stand and ends
 
 The React frontend is supplied and runs immediately using illustrative demo API responses. Your task is to build the backend. You do not need to redesign or extend the frontend.
 
+> **Start with [ASSIGNMENT.md](ASSIGNMENT.md).** It is the full exercise brief: the domain, the event lifecycle, the endpoints you need to implement and what we expect from your submission. This README covers running the supplied application and pointing it at your backend.
+
 ## Your task
 
 Build a backend that:
@@ -53,10 +55,8 @@ If the frontend and backend run on different origins, your backend must permit r
 
 ## Source data
 
-The input represents records exported from a legacy operational system:
+The input represents records exported from a legacy operational system, representative of a remote event stream and supplied here as a JSON array for simplicity:
 
-- Records are not ordered chronologically.
-- The same event may be delivered more than once. Repeated records use the same `eventId`.
 - `flightNumber` identifies a turn within a local calendar date, but flight numbers are reused on other dates.
 - `eventDateTime` is an airport-local ISO 8601 date and time with no timezone or UTC offset.
 - Do not modify the source file to clean it up.
@@ -90,8 +90,6 @@ Before you finish, confirm that:
 - The frontend can retrieve all five SLA definitions from your backend.
 - Network performance is calculated for an inclusive date range.
 - Airport detail contains all turns in the requested range and their operation durations.
-- Duplicate event deliveries do not change calculated results.
-- Input order does not affect calculated results.
 - Your backend tests cover the behaviour you consider important.
 - The frontend runs with `VITE_USE_MOCK_API=false` against your backend.
 

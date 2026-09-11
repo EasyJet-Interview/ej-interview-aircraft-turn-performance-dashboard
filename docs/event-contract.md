@@ -15,7 +15,7 @@ Every record in [`../data/turn-events.json`](../data/turn-events.json) has this 
 
 | Field | Meaning |
 |---|---|
-| `eventId` | Unique event identifier. Repeated records with the same value represent the same event delivery. |
+| `eventId` | Unique event identifier. |
 | `flightNumber` | Identifies the aircraft turn within a local calendar date. Flight numbers may be reused on later dates. |
 | `airportCode` | Three-letter code for the airport where the turn takes place. |
 | `eventType` | One of the six lifecycle event types below. |
