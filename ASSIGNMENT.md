@@ -208,7 +208,7 @@ The frontend treats any non-2xx response as an API failure.
 ## What we expect
 
 - The frontend retrieves all five SLA definitions from your backend.
-- Network performance is calculated for an inclusive date range.
+- Turn performance is calculated for an inclusive date range.
 - Airport detail contains all turns in the requested range and their operation durations.
 - Your backend includes automated tests covering the behaviour you consider important.
 - The frontend runs against your backend with demo mode disabled.
