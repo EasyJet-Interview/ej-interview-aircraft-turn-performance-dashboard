@@ -1,7 +1,7 @@
 import { http, HttpResponse } from 'msw'
 import { getMockAirport, getMockNetwork, getMockSlas } from './data'
 
-function rangeFrom(request: Request) {
+const rangeFrom = (request: Request) => {
   const url = new URL(request.url)
   return {
     from: url.searchParams.get('from') ?? '2026-08-03',

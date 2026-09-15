@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client'
 import App from './App'
 import { isMockApiEnabled, warnIfMisconfigured } from './config'
 
-async function enableDemoApi() {
+const enableDemoApi = async () => {
   if (!isMockApiEnabled()) return
 
   const { worker } = await import('./mocks/browser')

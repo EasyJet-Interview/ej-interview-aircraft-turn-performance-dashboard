@@ -17,7 +17,7 @@ export class ApiError extends Error {
   }
 }
 
-async function request<T>(path: string): Promise<T> {
+const request = async <T,>(path: string): Promise<T> => {
   const response = await fetch(`${getApiBaseUrl()}${path}`)
   if (!response.ok) {
     throw new ApiError(response.status)
@@ -25,18 +25,13 @@ async function request<T>(path: string): Promise<T> {
   return response.json() as Promise<T>
 }
 
-function dateQuery(range: DateRange): string {
-  return new URLSearchParams({ from: range.from, to: range.to }).toString()
-}
+const dateQuery = (range: DateRange): string =>
+  new URLSearchParams({ from: range.from, to: range.to }).toString()
 
-export function getSlas(): Promise<SlaDefinition[]> {
-  return request('/api/airports/slas')
-}
+export const getSlas = (): Promise<SlaDefinition[]> => request('/api/airports/slas')
 
-export function getNetworkPerformance(range: DateRange): Promise<NetworkPerformance> {
-  return request(`/api/airports/performance?${dateQuery(range)}`)
-}
+export const getNetworkPerformance = (range: DateRange): Promise<NetworkPerformance> =>
+  request(`/api/airports/performance?${dateQuery(range)}`)
 
-export function getAirportPerformance(airportCode: string, range: DateRange): Promise<AirportPerformance> {
-  return request(`/api/airports/${encodeURIComponent(airportCode)}/performance?${dateQuery(range)}`)
-}
+export const getAirportPerformance = (airportCode: string, range: DateRange): Promise<AirportPerformance> =>
+  request(`/api/airports/${encodeURIComponent(airportCode)}/performance?${dateQuery(range)}`)

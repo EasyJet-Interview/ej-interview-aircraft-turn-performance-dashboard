@@ -9,15 +9,14 @@ interface MockFixture {
 
 const fixture = fixtureJson as unknown as MockFixture
 
-export function getMockSlas(): SlaDefinition[] {
-  return structuredClone(fixture.slas)
-}
+export const getMockSlas = (): SlaDefinition[] => structuredClone(fixture.slas)
 
-export function getMockNetwork(range: DateRange): NetworkPerformance {
-  return { ...structuredClone(fixture.network), ...range }
-}
+export const getMockNetwork = (range: DateRange): NetworkPerformance => ({
+  ...structuredClone(fixture.network),
+  ...range,
+})
 
-export function getMockAirport(airportCode: string, range: DateRange): AirportPerformance | null {
+export const getMockAirport = (airportCode: string, range: DateRange): AirportPerformance | null => {
   const airport = fixture.details[airportCode]
   return airport ? { ...structuredClone(airport), ...range } : null
 }

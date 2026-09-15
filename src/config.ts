@@ -9,14 +9,10 @@
 const MOCK_API_DISABLED = 'false'
 
 /** Demo mode is on unless VITE_USE_MOCK_API is explicitly set to 'false'. */
-export function isMockApiEnabled() {
-  return import.meta.env.VITE_USE_MOCK_API !== MOCK_API_DISABLED
-}
+export const isMockApiEnabled = () => import.meta.env.VITE_USE_MOCK_API !== MOCK_API_DISABLED
 
 /** The backend origin, without a trailing slash. Empty means same-origin. */
-export function getApiBaseUrl() {
-  return (import.meta.env.VITE_API_BASE_URL ?? '').replace(/\/$/, '')
-}
+export const getApiBaseUrl = () => (import.meta.env.VITE_API_BASE_URL ?? '').replace(/\/$/, '')
 
 /**
  * Warns when demo mode is off but no backend origin is configured. Requests
@@ -24,7 +20,7 @@ export function getApiBaseUrl() {
  * backend is served from it. Under `npm run dev` they hit the Vite dev server
  * and 404 with no explanation.
  */
-export function warnIfMisconfigured() {
+export const warnIfMisconfigured = () => {
   if (isMockApiEnabled() || getApiBaseUrl() !== '') return
 
   console.warn(
