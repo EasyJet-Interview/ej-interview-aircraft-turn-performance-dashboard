@@ -1,5 +1,4 @@
-import type { DateRange } from './api/types'
-import type { TurnOperation } from './api/types'
+import type { DateRange, TurnOperation } from './api/types'
 
 export const AIRPORT_NAMES: Record<string, string> = {
   LGW: 'London Gatwick',
